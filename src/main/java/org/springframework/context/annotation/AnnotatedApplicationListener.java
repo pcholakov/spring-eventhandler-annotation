@@ -19,6 +19,8 @@ import java.lang.reflect.Method;
  * be instantiated as is and have its <code>target</code> set to dispatch to another object.
  * The latter approach is preferable in case you ever need to use inheritance to derive your
  * event handler from a different superclass.
+ *
+ * @author Pavel Tcholakov
  */
 public class AnnotatedApplicationListener implements ApplicationListener {
     private Object target = this;
