@@ -1,0 +1,9 @@
+This code is licenced under the Apache 2.0 License.
+
+It originally appeared here:
+
+http://pavel.tcholakov.net/2009/04/annotation-based-dispatch-for-spring-applicationevents/
+
+This is not actively developed. For an alternative (and more active project), see:
+
+http://code.google.com/p/spring-custom-annotations/
